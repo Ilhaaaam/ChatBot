@@ -1,4 +1,8 @@
 code .gitignore
+# Python venv 
+stenv
+secrets.toml
+.gitignore
 # Ignorer le dossier .streamlit
 .streamlit/
 
