@@ -1,0 +1,4 @@
+code .gitignore
+# Ignorer le dossier .streamlit
+.streamlit/
+
